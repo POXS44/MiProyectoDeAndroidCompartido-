@@ -22,5 +22,7 @@ class ExampleInstrumentedTest {
         assertEquals("com.poxs44.miproyectoandroidcompartido", appContext.packageName)
     }
 
-    /// que honda pajista
+
+
+
 }
